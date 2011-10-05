@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOHNWIN8PREVIEW</Machine>
+    <WindowsUser>jnasty30</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-10-04T16:07:04.831</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\css\collectionPage.css">
+      <PackagePath>css\collectionPage.css</PackagePath>
+      <Modified>2011-10-04T10:40:51.148</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2011-10-04T10:40:51.178</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\css\detailPage.css">
+      <PackagePath>css\detailPage.css</PackagePath>
+      <Modified>2011-10-04T10:40:51.185</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\css\landingPage.css">
+      <PackagePath>css\landingPage.css</PackagePath>
+      <Modified>2011-10-04T23:31:32.437</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-10-04T23:31:41.922</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2011-10-04T16:07:03.131</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\html\collectionPage.html">
+      <PackagePath>html\collectionPage.html</PackagePath>
+      <Modified>2011-10-04T10:40:51.198</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\html\detailPage.html">
+      <PackagePath>html\detailPage.html</PackagePath>
+      <Modified>2011-10-04T14:21:12.169</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\html\landingPage.html">
+      <PackagePath>html\landingPage.html</PackagePath>
+      <Modified>2011-10-04T16:12:39.336</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\collectionPage.js">
+      <PackagePath>js\collectionPage.js</PackagePath>
+      <Modified>2011-10-04T10:40:51.295</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\common.js">
+      <PackagePath>js\common.js</PackagePath>
+      <Modified>2011-10-04T12:12:29.813</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2011-10-04T10:40:51.302</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\detailPage.js">
+      <PackagePath>js\detailPage.js</PackagePath>
+      <Modified>2011-10-04T15:43:53.512</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\jquery1.6.4.min.js">
+      <PackagePath>js\jquery1.6.4.min.js</PackagePath>
+      <Modified>2011-10-03T11:11:09.933</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\js\landingPage.js">
+      <PackagePath>js\landingPage.js</PackagePath>
+      <Modified>2011-10-04T23:29:35.579</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\Css\ui-dark.css">
+      <PackagePath>winjs\Css\ui-dark.css</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\Css\ui-light.css">
+      <PackagePath>winjs\Css\ui-light.css</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\animations.js">
+      <PackagePath>winjs\js\animations.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\base.js">
+      <PackagePath>winjs\js\base.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\binding.js">
+      <PackagePath>winjs\js\binding.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\controls.js">
+      <PackagePath>winjs\js\controls.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\res.js">
+      <PackagePath>winjs\js\res.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\ui.js">
+      <PackagePath>winjs\js\ui.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\uicollections.js">
+      <PackagePath>winjs\js\uicollections.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\NetflixBrowser\NetflixBrowser\winjs\js\wwaapp.js">
+      <PackagePath>winjs\js\wwaapp.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>

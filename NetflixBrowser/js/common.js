@@ -1,0 +1,3 @@
+﻿function onApiError() {
+    alert('hey');
+}
